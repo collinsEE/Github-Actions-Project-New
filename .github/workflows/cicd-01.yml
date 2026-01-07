@@ -121,6 +121,7 @@ jobs:
        with:
           push: true
           tags: ekomebah/bankapp:latest
+          file: ./Dockerfile
 
 
 
